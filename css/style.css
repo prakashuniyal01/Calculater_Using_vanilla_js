@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 	font-family: sans-serif;
 }
+body {
+    background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165));
+}
 
 .app {
 	display: flex;
